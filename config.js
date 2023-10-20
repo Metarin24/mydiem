@@ -6,4 +6,4 @@ const contentCard ="Đừng buồn vì 20/10 mà chả có ai tặng quà, cả 
 
 const giftImage = "diem.jpg";
 const base64 = "";
-const giftImageBase64 = "data:image/png;base64, " + base64;
+// const giftImageBase64 = "data:image/png;base64, " + base64;
